@@ -1,0 +1,852 @@
+/*============================================
+        DEFAULT VALUES:
+        
+        FONT FAMILY         :Roboto Condensed
+       
+        Ripple             :#DAECF3 ()
+        Crush              :#E85124 (Buttons, Icons, Links, Lines & Backgrounds)
+        SeaFloor           :#1AA6B7 ()
+        Steel Gray         :#41464b (Headings)
+        Cyprus             :#022D41 (Paragraph)
+        White              :#fff    (Text with background)
+        Black              :#000    ()
+=============================================*/
+/* GENERAL CSS*/
+html, body{
+    height: 100%;
+}
+
+body{
+    
+    font-family: "Roboto Condensed","sans-serif";
+}
+
+p{
+    color: #41464b;
+    font-size: 16px;
+    font-weight: 300;
+}
+
+h3{
+    text-transform: uppercase; 
+    color: #41464b;
+}
+/*============================================
+                    HOME
+=============================================*/
+#image-header {
+    height: 30%; 
+    
+}
+
+#image-cover {
+height: 100%;
+ background-image: url("../img/5.jpg");
+}
+
+
+#home-content-box{
+    width: 100%;
+    height: 100%;
+    display: table;
+    
+}
+
+/*#home-content-box-inner{
+    display: table-cell;
+    vertical-align: middle; 
+    text-align: center;  
+	
+}*/
+
+
+#home-heading h3{
+    color: #fff;
+    font-size: 55px;
+    font-weight: 700;
+    margin: 20px 0 20 0;
+	font-family: 'Merienda One', cursive;
+}
+
+
+
+/*============================================
+                    BUTTONS(Generic)
+=============================================*/
+.btn-general {
+   
+    border-width: 2px;
+    border-radius: 0;
+    padding: 12px 26px 12px 26px;
+    font-size: 16px;
+    font-weight: 400;
+    text-transform: uppercase;
+    
+}
+
+.btn-white {
+    
+    border-color: #fff;
+    color: #fff;
+    
+}
+
+.btn-white:hover, .btn-white:focus{
+    background-color: #fff;
+    color: #41464b ;
+}
+
+
+
+.btn-red {
+    
+    border-color: red;
+    color: red;
+    
+}
+
+.btn-red:hover, 
+.btn-red:focus{
+    background-color: #e40000;
+    color: #fff ;
+}
+
+.btn-back-to-top{
+	
+	position: fixed;
+	bottom: 20px;
+	right: 20px;
+	font-size: 22px;
+	padding: 3px 15px;
+	border-radius: 0;
+	display: none;
+	
+	
+	
+}
+
+/*============================================
+                    ANIMATE
+=============================================*/
+#home-cover, #home-heading, #home-btn{
+    animation-duration: .5s;
+}
+
+#home-cover{
+    animation-delay: .1s;
+    
+}
+
+#home-heading{
+    animation-delay: .5s;
+    
+}
+
+#home-btn{
+    animation-delay: 1s;
+    
+}
+
+/*============================================
+                    PARALLAX(Generic)
+=============================================*/
+.bg-parallax{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed; /*Parallax effect*/
+}
+
+
+/*============================================
+                    CONTENT(Generic)
+=============================================*/
+.content-box{
+    
+    padding: 30px 0 30px 0;
+    
+}
+
+.content-title h3{
+    
+    font-size: 30px;
+    font-weight: 700;
+    text-align: center;
+    margin: 0 0 30px 0;
+    
+}
+
+.content-title-underline{
+    
+    width: 500px;
+    height: 10px;
+    background-color: green;
+    margin: 0 auto 30px auto;
+}
+
+/*============================================
+                    SERVICES
+=============================================*/
+.service-item{
+    
+    padding: 20px 0;
+    margin-bottom: 20px;
+    cursor: pointer;
+}
+
+.service-item-icon i{
+    color: red;
+    float: left;
+    padding: 15px;
+    margin-right: 25px;
+    width: 75px;
+    height: 75px;
+    text-align: center;
+}
+
+.service-item:hover .service-item-icon i{
+    color: #fff;
+    background-color: red;
+}
+
+.service-item-title h3{
+    font-size: 20px;
+    font-weight: 400;
+    margin: 0 0 10px 0;
+}
+
+.service-item-desc p{
+    margin: 0;
+    padding-left: 85px;
+}
+#service-btn a{
+	height: 40px; 
+	padding: 10px 25px
+}
+
+#service-btn{
+	text-align: center; 
+	margin-top: 25px;
+}
+
+
+
+/*============================================
+                   SOCIAL ICON
+=============================================*/
+
+
+.social-list{
+	padding-left: 0;
+	
+}
+
+.social-list li{
+	list-style: none;
+	display: inline-block;
+	width: 32px;
+	height: 32px;
+	margin-right: 6px;
+	margin-top: 10px;
+}
+
+.social-icon i {
+	font-size: 17px;
+	
+	
+}
+
+
+.icon-gray i {
+	color: #41464b;
+	
+}
+
+.icon-white i {
+	color: #fff;
+}
+
+.icon-white i:hover {
+	color: green;
+}
+
+.icon-gray i:hover{
+	color: green;
+}
+
+
+/*============================================
+                    FOOTER 1 CONTACT
+=============================================*/
+footer{
+	
+	background-color: #fb4545;
+	padding-top: 1px;
+    padding-bottom: 1px;
+	border-top: 5px solid rgba(0,0,0, 0.1);
+	
+	
+}
+
+
+#contact-left h3, #contact-right h3{
+	color: #fff;
+	font-size: 27px;
+	font-weight: 700;
+	
+	
+	
+}
+
+
+#contact-left p {
+	color: #fff;
+	margin-bottom: 30px;
+	
+	
+	
+}
+
+
+#contact-info {
+	
+}
+
+address{
+	color: #fff;
+	
+	
+}
+
+
+address strong, #phone-email strong{
+	letter-spacing: 1px;
+	
+	
+}
+
+form .form-control {
+	background: transparent;
+	
+	border-radius: 0;
+	
+	border-color: #fff;
+	
+	font-size: 17px;
+	
+	font-weight: 300;
+	
+	padding: 8px 16px;
+	
+	margin-bottom: 20px;
+	
+	color: #fff;
+}
+
+/*============================================
+                    FOOTER 2
+=============================================*/
+
+#footer-bottom{
+	background-color: #eb2b2b;
+	padding: 10px 0;
+	margin-top: 60px;
+	
+	
+}
+
+#footer-copyrights p {
+	margin: 0;
+	color: #fff;
+	
+}
+
+
+#footer-menu{
+	float: left;
+	color: #fff;
+	font-size: 16px;
+	font-weight: 300;
+	
+	
+}
+
+
+#footer-menu ul {
+	list-style: none;
+	padding-left: 0;
+	margin: 0;
+	
+}
+
+#footer-menu ul li{
+	display: inline-block;
+	
+}
+
+#footer-menu a {
+	color: #fff;
+	font-size: 16px;
+	font-weight: 300;
+	margin: 0 10px;
+	text-decoration: none;
+}
+
+#footer-menu a:hover{
+	color: #E85124 ;
+}
+
+
+/*============================================
+                   NAVIGATION 1
+=============================================*/
+
+/*[ Top bar ]
+===========================================================*/
+.topbar {
+  height: 45px;
+  background-color: #fb4545;
+  position: relative;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* ------------------------------------ */
+.topbar{
+	padding: 20px 0;
+	transition:  .5s ease-in;
+}
+.topbar-social {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  left: 0;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: flex;
+  align-items: center;
+  padding-left: 40px;
+   
+}
+
+.topbar-social i {
+	margin-right: 15px;
+	color: #fff;
+}
+
+.topbar-social i:hover {
+	margin-right: 15px;
+	color: green;
+}
+
+
+/* ------------------------------------ */
+.topbar-child1 {
+  font-family: "Roboto Condensed","sans-serif";
+  font-size: 15px;
+  color: #fff;
+  line-height: 1.7;
+
+}
+
+
+/* ------------------------------------ */
+.topbar-child2 {
+  position: absolute;
+  height: 100%;
+  top: 5px;
+  right: 30px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: flex;
+  align-items:center;
+  flex-wrap: wrap;
+  padding-right: 38px;
+}
+
+.topbar-account li {
+	list-style: none;
+	display: inline-block;
+	width: 32px;
+	height: 32px;
+	margin-right: 6px;
+	margin-top: 15px;
+	
+}
+
+.topbar-account > li > a{
+	
+	color: #fff;
+	font-size: 14px;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	font-weight: 700;
+	
+}
+
+.topbar-account > li > a:hover, .navbar-nav > li > a:focus{
+	
+	background-color: green;
+	text-decoration: none;
+	
+}
+
+/*[ Header Desktop ]
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>*/
+
+.container-menu-header {
+  width: 100%;
+  top: 0;
+  left: 0;
+  position: fixed;
+  z-index: 1100;
+  box-shadow: 0 1px 5px 0px rgba(0,0,0,0.2);
+  -moz-box-shadow: 0 1px 5px 0px rgba(0,0,0,0.2);
+  -webkit-box-shadow: 0 1px 5px 0px rgba(0,0,0,0.2);
+  -o-box-shadow: 0 1px 5px 0px rgba(0,0,0,0.2);
+  -ms-box-shadow: 0 1px 5px 0px rgba(0,0,0,0.2); 
+}
+
+
+
+
+
+/*============================================
+                   NAVIGATION 2
+=============================================*/
+.navbar{
+	padding: 20px 0;
+	transition: all .3s ease-in-out;
+    height: 85px;
+    
+	
+}
+
+.navbar-margin{
+	margin-top: 45px;
+	
+}
+
+.navbar-brand{
+	padding: 0;
+}
+
+.navbar-brand img{
+    margin: 0;
+	padding: 0;
+    height: auto;
+    width: auto;
+}
+
+.vesco-top-nav {
+	
+	background-color: rgba(255,255,255,0.8);
+	padding: 7px 0;
+    
+}
+.vesco-top-nav-white{
+    
+    background-color: #fff;
+    height: 100px;
+    
+}
+
+     
+.vesco-nav-wrapper{
+	padding: 0 85px;
+	
+	
+}
+
+.navbar-nav{
+	float: right;
+}
+
+.navbar-nav > li > a{
+	
+	color: red;
+	font-size: 15px;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	font-weight: 700;
+    
+	
+}
+
+.navbar-nav > li > a:hover, .navbar-nav > li > a:focus{
+	
+    background-color: transparent;
+    border-bottom: 1px solid  red;
+    
+	
+}
+
+
+.navbar-toggle{
+	background-color: rgba(0,0,0,0.1);
+	border: 1px solid #fff;
+	border-radius: 0;
+	
+	
+}
+
+.icon-bar{
+	
+	background-color: #fff;
+}
+
+
+.navbar-collapse {
+	max-height: none ! important;
+			
+}
+
+
+
+.vesco-top-nav ul.navbar-nav > li.active > a{
+	
+	
+}
+
+
+
+/*============================================
+                    HEADER
+=============================================*/
+.header1{   
+    height: 80px;
+    -webkit-transition: all 0.3s;
+    -o-transition: all 0.3s;
+    -moz-transition: all 0.3s;
+    transition: all 0.3s
+}
+
+.fixed-header {height: 110px;}
+
+.container-menu-header{
+    width: 100%;
+    top: 0;
+    left: 0;
+    position: fixed;
+    z-index: 1100;
+    box-shadow: 0 1px 5px 0px rgba(0,0,0,0.2);
+      -moz-box-shadow: 0 1px 5px 0px rgba(0,0,0,0.2);
+      -webkit-box-shadow: 0 1px 5px 0px rgba(0,0,0,0.2);
+      -o-box-shadow: 0 1px 5px 0px rgba(0,0,0,0.2);
+      -ms-box-shadow: 0 1px 5px 0px rgba(0,0,0,0.2); 
+
+}
+
+.wrap_header{
+    
+    
+}
+
+/*============================================
+                    ABout.html
+=============================================*/
+
+#content{
+    margin-top: 150px;
+}
+
+
+/*============================================
+                   Multi-level nav
+=============================================*/
+.dropdown-submenu{
+    position: relative;
+}
+
+.dropdown-submenu .dropdown-menu{
+    top: 0;
+    left: 100%;
+    margin-top: -1px;
+}
+
+/*============================================
+                    DASHBOARD
+=============================================*/
+#dashboard{
+    margin-top: 5px;
+}
+
+.box-outer-left{
+   width: 200px;
+    margin: 0 40px;
+}
+
+.box-outer-left h3{
+    text-align: center;
+    color: white;
+    background-color: #555;
+    padding: 15px;
+}
+
+.box-outer-right{
+   
+    margin-right: 20px;
+}
+
+.box-header{
+    border: 1px solid #555;
+    text-align: center;
+    margin-bottom: 20px;
+    padding: 10px 0;
+}
+
+.box-header #header-text{
+    font-weight: 700;
+    font-size: 20px;
+    
+}
+
+.box-header p{
+    
+}
+
+.box-header a{
+    margin-left: 20px;
+}
+
+.box-outer-content{
+  width: 100%;
+  height: 100%;
+}
+
+.box-inner-content{
+    border: 2px solid red;
+    height: 100%;
+    width:  100%; 
+    margin-bottom: 10px;
+    text-align: center;
+    font-weight: 700;
+    font-size: 50px;
+}
+
+.box-inner-content span{
+    font-size: 30px;
+    font-weight: 700;
+    word-break: break-all;
+    width: 200px;
+
+}
+
+
+
+
+
+
+/*============================================
+            Vertical Navigation Bar
+=============================================*/
+.nav-panel{
+    
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    background-color: #f1f1f1;
+    
+}
+
+
+.nav-panel li a {
+    
+    display: block;
+    color: #000;
+    padding: 8px 0 8px 16px;
+    text-decoration: none;
+    
+}
+
+.nav-panel li a:hover{
+    
+    background-color: #555;
+    color: white;
+    
+}
+
+/*============================================
+            Profile
+=============================================*/
+.profile-inner tr td{
+    width: 450px;
+    height: 20px;
+}
+
+/*============================================
+            Earning Commision
+=============================================*/
+.earning-inner h3{
+    font-weight: 600;
+}
+
+.earning-header{
+    text-align: center;
+}
+
+
+.table-earning-2,
+.table-earning-3 tr{
+    text-align: center;
+    
+}
+
+
+
+/*============================================
+            Payment
+=============================================*/
+.payment-form .form-control{
+    color: #444;
+}
+
+/*============================================
+            referral member
+=============================================*/
+.no-record {
+    text-align: center;
+}
+
+
+
+/*============================================
+           Withdrawal-request
+=============================================*/
+.widthdrawal-request-form{
+    padding: 10px 300px;
+}
+
+.widthdrawal-request-form .form-control{
+     color: #444;
+}
+
+.widthdrawal-request-header h4{
+    color: red;
+}
+.widthdrawal-request-header p {
+    font-size: 30px;
+}
+
+/*============================================
+           NSO services
+=============================================*/
+.services-form .form-control{
+    color: #444;
+}
+
+.services-form select{
+    width: 500px;
+    padding: 0;
+}
+
