@@ -1,0 +1,643 @@
+[04-Sep-2018 09:04:52 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'asianevadastaff'@'localhost' (using password: YES) in /home/iftbyvgbi0d4/public_html/an88ttc/includes/db.php on line 18
+[04-Sep-2018 09:05:05 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'asianevadastaff'@'localhost' (using password: YES) in /home/iftbyvgbi0d4/public_html/an88ttc/includes/db.php on line 18
+[04-Sep-2018 09:05:05 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/iftbyvgbi0d4/public_html/an88ttc/admin/includes/view_all_member.php on line 27
+[04-Sep-2018 09:05:05 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iftbyvgbi0d4/public_html/an88ttc/admin/includes/view_all_member.php on line 29
+[04-Sep-2018 09:05:10 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'asianevadastaff'@'localhost' (using password: YES) in /home/iftbyvgbi0d4/public_html/an88ttc/includes/db.php on line 18
+[04-Sep-2018 09:06:23 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'asianevadastaff'@'localhost' (using password: YES) in /home/iftbyvgbi0d4/public_html/an88ttc/includes/db.php on line 18
+[04-Sep-2018 09:06:23 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/iftbyvgbi0d4/public_html/an88ttc/admin/includes/view_all_member.php on line 27
+[04-Sep-2018 09:06:23 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iftbyvgbi0d4/public_html/an88ttc/admin/includes/view_all_member.php on line 29
+[04-Sep-2018 09:06:26 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'asianevadastaff'@'localhost' (using password: YES) in /home/iftbyvgbi0d4/public_html/an88ttc/includes/db.php on line 18
+[04-Sep-2018 09:06:26 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/iftbyvgbi0d4/public_html/an88ttc/admin/includes/report_all_member.php on line 53
+[04-Sep-2018 09:06:26 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iftbyvgbi0d4/public_html/an88ttc/admin/includes/report_all_member.php on line 55
+[04-Sep-2018 09:06:50 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'asianevadastaff'@'localhost' (using password: YES) in /home/iftbyvgbi0d4/public_html/an88ttc/includes/db.php on line 18
+[04-Sep-2018 09:06:50 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/iftbyvgbi0d4/public_html/an88ttc/admin/includes/view_all_member.php on line 27
+[04-Sep-2018 09:06:50 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iftbyvgbi0d4/public_html/an88ttc/admin/includes/view_all_member.php on line 29
+[04-Sep-2018 09:06:52 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'asianevadastaff'@'localhost' (using password: YES) in /home/iftbyvgbi0d4/public_html/an88ttc/includes/db.php on line 18
+[04-Sep-2018 09:06:52 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/iftbyvgbi0d4/public_html/an88ttc/admin/includes/view_all_member.php on line 27
+[04-Sep-2018 09:06:52 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iftbyvgbi0d4/public_html/an88ttc/admin/includes/view_all_member.php on line 29
+[04-Sep-2018 09:06:55 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'asianevadastaff'@'localhost' (using password: YES) in /home/iftbyvgbi0d4/public_html/an88ttc/includes/db.php on line 18
+[04-Sep-2018 09:06:55 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/iftbyvgbi0d4/public_html/an88ttc/admin/includes/view_all_member.php on line 27
+[04-Sep-2018 09:06:55 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iftbyvgbi0d4/public_html/an88ttc/admin/includes/view_all_member.php on line 29
+[04-Sep-2018 09:06:59 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'asianevadastaff'@'localhost' (using password: YES) in /home/iftbyvgbi0d4/public_html/an88ttc/includes/db.php on line 18
+[04-Sep-2018 09:06:59 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/iftbyvgbi0d4/public_html/an88ttc/admin/includes/report_all_member.php on line 53
+[04-Sep-2018 09:06:59 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iftbyvgbi0d4/public_html/an88ttc/admin/includes/report_all_member.php on line 55
+[04-Sep-2018 09:07:02 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'asianevadastaff'@'localhost' (using password: YES) in /home/iftbyvgbi0d4/public_html/an88ttc/includes/db.php on line 18
+[04-Sep-2018 09:07:06 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'asianevadastaff'@'localhost' (using password: YES) in /home/iftbyvgbi0d4/public_html/an88ttc/includes/db.php on line 18
+[04-Sep-2018 09:07:06 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/iftbyvgbi0d4/public_html/an88ttc/admin/includes/report_all_member.php on line 53
+[04-Sep-2018 09:07:06 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iftbyvgbi0d4/public_html/an88ttc/admin/includes/report_all_member.php on line 55
+[04-Sep-2018 09:08:18 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'asianevadastaff'@'localhost' (using password: YES) in /home/iftbyvgbi0d4/public_html/an88ttc/includes/db.php on line 18
+[04-Sep-2018 09:08:25 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'asianevadastaff'@'localhost' (using password: YES) in /home/iftbyvgbi0d4/public_html/an88ttc/includes/db.php on line 18
+[04-Sep-2018 09:08:25 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/iftbyvgbi0d4/public_html/an88ttc/admin/includes/report_all_member.php on line 53
+[04-Sep-2018 09:08:25 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iftbyvgbi0d4/public_html/an88ttc/admin/includes/report_all_member.php on line 55
+[04-Sep-2018 09:08:56 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'asianevadastaff'@'localhost' (using password: YES) in /home/iftbyvgbi0d4/public_html/an88ttc/includes/db.php on line 18
+[04-Sep-2018 09:08:56 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/iftbyvgbi0d4/public_html/an88ttc/admin/includes/report_all_member.php on line 53
+[04-Sep-2018 09:08:56 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iftbyvgbi0d4/public_html/an88ttc/admin/includes/report_all_member.php on line 55
+[04-Sep-2018 09:09:02 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'asianevadastaff'@'localhost' (using password: YES) in /home/iftbyvgbi0d4/public_html/an88ttc/includes/db.php on line 18
+[04-Sep-2018 09:09:02 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/iftbyvgbi0d4/public_html/an88ttc/admin/includes/function.php on line 49
+[04-Sep-2018 09:09:02 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iftbyvgbi0d4/public_html/an88ttc/admin/includes/function.php on line 51
+[04-Sep-2018 09:09:13 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'asianevadastaff'@'localhost' (using password: YES) in /home/iftbyvgbi0d4/public_html/an88ttc/includes/db.php on line 18
+[04-Sep-2018 09:09:15 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'asianevadastaff'@'localhost' (using password: YES) in /home/iftbyvgbi0d4/public_html/an88ttc/includes/db.php on line 18
+[04-Sep-2018 09:09:15 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/iftbyvgbi0d4/public_html/an88ttc/admin/includes/view_all_member.php on line 27
+[04-Sep-2018 09:09:15 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iftbyvgbi0d4/public_html/an88ttc/admin/includes/view_all_member.php on line 29
+[04-Sep-2018 09:09:18 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'asianevadastaff'@'localhost' (using password: YES) in /home/iftbyvgbi0d4/public_html/an88ttc/includes/db.php on line 18
+[04-Sep-2018 09:10:50 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'asianevadastaff'@'localhost' (using password: YES) in /home/iftbyvgbi0d4/public_html/an88ttc/includes/db.php on line 18
+[04-Sep-2018 09:12:12 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'asianevadastaff'@'localhost' (using password: YES) in /home/iftbyvgbi0d4/public_html/an88ttc/includes/db.php on line 18
+[04-Sep-2018 09:13:12 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'asianevadastaff'@'localhost' (using password: YES) in /home/iftbyvgbi0d4/public_html/an88ttc/includes/db.php on line 18
+[04-Sep-2018 09:14:18 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'asianevadastaff'@'localhost' (using password: YES) in /home/iftbyvgbi0d4/public_html/an88ttc/includes/db.php on line 18
+[04-Sep-2018 09:14:18 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/iftbyvgbi0d4/public_html/an88ttc/admin/includes/add_member_form.php on line 23
+[04-Sep-2018 09:14:18 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/iftbyvgbi0d4/public_html/an88ttc/admin/includes/function.php on line 9
+[04-Sep-2018 09:15:16 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'asianevadastaff'@'localhost' (using password: YES) in /home/iftbyvgbi0d4/public_html/an88ttc/includes/db.php on line 18
+[04-Sep-2018 09:37:19 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'asianevadastaff'@'localhost' (using password: YES) in /home/iftbyvgbi0d4/public_html/includes/db.php on line 17
+[04-Sep-2018 09:37:24 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'asianevadastaff'@'localhost' (using password: YES) in /home/iftbyvgbi0d4/public_html/includes/db.php on line 17
+[04-Sep-2018 09:37:24 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/iftbyvgbi0d4/public_html/admin/includes/view_all_member.php on line 27
+[04-Sep-2018 09:37:24 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iftbyvgbi0d4/public_html/admin/includes/view_all_member.php on line 29
+[04-Sep-2018 09:37:26 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'asianevadastaff'@'localhost' (using password: YES) in /home/iftbyvgbi0d4/public_html/includes/db.php on line 17
+[04-Sep-2018 09:38:13 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'asianevadastaff'@'localhost' (using password: YES) in /home/iftbyvgbi0d4/public_html/includes/db.php on line 17
+[04-Sep-2018 09:38:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 23
+[04-Sep-2018 09:38:13 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/iftbyvgbi0d4/public_html/admin/includes/function.php on line 9
+[05-Sep-2018 00:04:11 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/includes/admin_navigation.php on line 17
+[05-Sep-2018 00:59:09 UTC] PHP Notice:  Undefined index: report_earning in /home/iftbyvgbi0d4/public_html/admin/includes/update_report.php on line 13
+[05-Sep-2018 00:59:09 UTC] PHP Notice:  Undefined index: report_totalSalary in /home/iftbyvgbi0d4/public_html/admin/includes/update_report.php on line 20
+[05-Sep-2018 00:59:09 UTC] PHP Notice:  Undefined index: report_balance in /home/iftbyvgbi0d4/public_html/admin/includes/update_report.php on line 21
+[05-Sep-2018 03:37:59 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/includes/admin_navigation.php on line 16
+[05-Sep-2018 07:44:43 UTC] PHP Notice:  Undefined variable: member_mi in /home/iftbyvgbi0d4/public_html/admin/includes/edit_member.php on line 93
+[05-Sep-2018 07:44:43 UTC] PHP Notice:  Undefined variable: sponsored_id_by in /home/iftbyvgbi0d4/public_html/admin/includes/edit_member.php on line 167
+[05-Sep-2018 07:45:00 UTC] PHP Notice:  Undefined variable: member_mi in /home/iftbyvgbi0d4/public_html/admin/includes/edit_member.php on line 93
+[05-Sep-2018 07:45:00 UTC] PHP Notice:  Undefined variable: sponsored_id_by in /home/iftbyvgbi0d4/public_html/admin/includes/edit_member.php on line 167
+[05-Sep-2018 07:46:16 UTC] PHP Notice:  Undefined variable: member_mi in /home/iftbyvgbi0d4/public_html/admin/includes/edit_member.php on line 93
+[05-Sep-2018 07:46:16 UTC] PHP Notice:  Undefined variable: sponsored_id_by in /home/iftbyvgbi0d4/public_html/admin/includes/edit_member.php on line 167
+[05-Sep-2018 07:46:50 UTC] PHP Notice:  Undefined variable: member_mi in /home/iftbyvgbi0d4/public_html/admin/includes/edit_member.php on line 93
+[05-Sep-2018 07:46:50 UTC] PHP Notice:  Undefined variable: sponsored_id_by in /home/iftbyvgbi0d4/public_html/admin/includes/edit_member.php on line 167
+[05-Sep-2018 07:46:53 UTC] PHP Notice:  Undefined variable: member_mi in /home/iftbyvgbi0d4/public_html/admin/includes/edit_member.php on line 93
+[05-Sep-2018 07:46:53 UTC] PHP Notice:  Undefined variable: sponsored_id_by in /home/iftbyvgbi0d4/public_html/admin/includes/edit_member.php on line 167
+[05-Sep-2018 07:46:59 UTC] PHP Notice:  Undefined variable: member_mi in /home/iftbyvgbi0d4/public_html/admin/includes/edit_member.php on line 93
+[05-Sep-2018 07:46:59 UTC] PHP Notice:  Undefined variable: sponsored_id_by in /home/iftbyvgbi0d4/public_html/admin/includes/edit_member.php on line 167
+[05-Sep-2018 07:47:21 UTC] PHP Notice:  Undefined variable: member_mi in /home/iftbyvgbi0d4/public_html/admin/includes/edit_member.php on line 93
+[05-Sep-2018 07:47:21 UTC] PHP Notice:  Undefined variable: sponsored_id_by in /home/iftbyvgbi0d4/public_html/admin/includes/edit_member.php on line 167
+[05-Sep-2018 09:02:56 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/includes/admin_navigation.php on line 16
+[06-Sep-2018 00:28:29 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/includes/admin_navigation.php on line 16
+[06-Sep-2018 02:03:43 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/includes/admin_navigation.php on line 16
+[06-Sep-2018 02:03:43 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/admin_index.php on line 15
+[06-Sep-2018 06:14:15 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/includes/admin_navigation.php on line 16
+[06-Sep-2018 06:14:15 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/admin_index.php on line 15
+[06-Sep-2018 06:20:19 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/includes/admin_navigation.php on line 16
+[06-Sep-2018 06:20:19 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/admin_index.php on line 15
+[06-Sep-2018 06:23:10 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/includes/admin_navigation.php on line 16
+[06-Sep-2018 06:23:10 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/index.php on line 15
+[07-Sep-2018 00:27:00 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/includes/admin_navigation.php on line 16
+[10-Sep-2018 00:36:29 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/includes/admin_navigation.php on line 16
+[10-Sep-2018 01:43:04 UTC] PHP Notice:  Undefined variable: connection in /home/iftbyvgbi0d4/public_html/admin/includes/function.php on line 49
+[10-Sep-2018 01:43:04 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/iftbyvgbi0d4/public_html/admin/includes/function.php on line 49
+[10-Sep-2018 01:43:04 UTC] PHP Notice:  Undefined variable: create_panel_query in /home/iftbyvgbi0d4/public_html/admin/includes/function.php on line 51
+[10-Sep-2018 01:43:04 UTC] PHP Notice:  Undefined variable: connection in /home/iftbyvgbi0d4/public_html/admin/includes/function.php on line 52
+[10-Sep-2018 01:43:04 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/iftbyvgbi0d4/public_html/admin/includes/function.php on line 52
+[10-Sep-2018 05:13:51 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/includes/admin_navigation.php on line 16
+[10-Sep-2018 06:40:32 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/includes/admin_navigation.php on line 16
+[10-Sep-2018 07:38:45 UTC] PHP Notice:  Undefined index: sponsored.member_id in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 154
+[10-Sep-2018 07:38:45 UTC] PHP Notice:  Undefined index: sponsored.member_firstname in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 155
+[10-Sep-2018 07:38:45 UTC] PHP Notice:  Undefined index: sponsored.member_lastname in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 156
+[10-Sep-2018 07:38:45 UTC] PHP Notice:  Undefined index: sponsored.member_id in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 154
+[10-Sep-2018 07:38:45 UTC] PHP Notice:  Undefined index: sponsored.member_firstname in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 155
+[10-Sep-2018 07:38:45 UTC] PHP Notice:  Undefined index: sponsored.member_lastname in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 156
+[10-Sep-2018 07:38:45 UTC] PHP Notice:  Undefined index: sponsored.member_id in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 154
+[10-Sep-2018 07:38:45 UTC] PHP Notice:  Undefined index: sponsored.member_firstname in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 155
+[10-Sep-2018 07:38:45 UTC] PHP Notice:  Undefined index: sponsored.member_lastname in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 156
+[10-Sep-2018 07:38:45 UTC] PHP Notice:  Undefined index: sponsored.member_id in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 154
+[10-Sep-2018 07:38:45 UTC] PHP Notice:  Undefined index: sponsored.member_firstname in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 155
+[10-Sep-2018 07:38:45 UTC] PHP Notice:  Undefined index: sponsored.member_lastname in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 156
+[10-Sep-2018 07:38:45 UTC] PHP Notice:  Undefined index: sponsored.member_id in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 154
+[10-Sep-2018 07:38:45 UTC] PHP Notice:  Undefined index: sponsored.member_firstname in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 155
+[10-Sep-2018 07:38:45 UTC] PHP Notice:  Undefined index: sponsored.member_lastname in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 156
+[10-Sep-2018 07:39:00 UTC] PHP Notice:  Undefined index: sponsored.member_id in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 154
+[10-Sep-2018 07:39:00 UTC] PHP Notice:  Undefined index: sponsored.member_firstname in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 155
+[10-Sep-2018 07:39:00 UTC] PHP Notice:  Undefined index: sponsored.member_lastname in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 156
+[10-Sep-2018 07:39:00 UTC] PHP Notice:  Undefined index: sponsored.member_id in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 154
+[10-Sep-2018 07:39:00 UTC] PHP Notice:  Undefined index: sponsored.member_firstname in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 155
+[10-Sep-2018 07:39:00 UTC] PHP Notice:  Undefined index: sponsored.member_lastname in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 156
+[10-Sep-2018 07:39:00 UTC] PHP Notice:  Undefined index: sponsored.member_id in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 154
+[10-Sep-2018 07:39:00 UTC] PHP Notice:  Undefined index: sponsored.member_firstname in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 155
+[10-Sep-2018 07:39:00 UTC] PHP Notice:  Undefined index: sponsored.member_lastname in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 156
+[10-Sep-2018 07:39:00 UTC] PHP Notice:  Undefined index: sponsored.member_id in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 154
+[10-Sep-2018 07:39:00 UTC] PHP Notice:  Undefined index: sponsored.member_firstname in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 155
+[10-Sep-2018 07:39:00 UTC] PHP Notice:  Undefined index: sponsored.member_lastname in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 156
+[10-Sep-2018 07:39:00 UTC] PHP Notice:  Undefined index: sponsored.member_id in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 154
+[10-Sep-2018 07:39:00 UTC] PHP Notice:  Undefined index: sponsored.member_firstname in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 155
+[10-Sep-2018 07:39:00 UTC] PHP Notice:  Undefined index: sponsored.member_lastname in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 156
+[10-Sep-2018 07:39:09 UTC] PHP Notice:  Undefined index: sponsored.member_id in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 154
+[10-Sep-2018 07:39:09 UTC] PHP Notice:  Undefined index: sponsored.member_firstname in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 155
+[10-Sep-2018 07:39:09 UTC] PHP Notice:  Undefined index: sponsored.member_lastname in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 156
+[10-Sep-2018 07:39:09 UTC] PHP Notice:  Undefined index: sponsored.member_id in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 154
+[10-Sep-2018 07:39:09 UTC] PHP Notice:  Undefined index: sponsored.member_firstname in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 155
+[10-Sep-2018 07:39:09 UTC] PHP Notice:  Undefined index: sponsored.member_lastname in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 156
+[10-Sep-2018 07:39:09 UTC] PHP Notice:  Undefined index: sponsored.member_id in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 154
+[10-Sep-2018 07:39:09 UTC] PHP Notice:  Undefined index: sponsored.member_firstname in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 155
+[10-Sep-2018 07:39:09 UTC] PHP Notice:  Undefined index: sponsored.member_lastname in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 156
+[10-Sep-2018 07:39:09 UTC] PHP Notice:  Undefined index: sponsored.member_id in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 154
+[10-Sep-2018 07:39:09 UTC] PHP Notice:  Undefined index: sponsored.member_firstname in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 155
+[10-Sep-2018 07:39:09 UTC] PHP Notice:  Undefined index: sponsored.member_lastname in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 156
+[10-Sep-2018 07:39:09 UTC] PHP Notice:  Undefined index: sponsored.member_id in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 154
+[10-Sep-2018 07:39:09 UTC] PHP Notice:  Undefined index: sponsored.member_firstname in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 155
+[10-Sep-2018 07:39:09 UTC] PHP Notice:  Undefined index: sponsored.member_lastname in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 156
+[10-Sep-2018 07:39:12 UTC] PHP Notice:  Undefined index: package in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 18
+[10-Sep-2018 07:39:12 UTC] PHP Notice:  Undefined index: sb in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 21
+[10-Sep-2018 07:39:19 UTC] PHP Notice:  Undefined index: sponsored.member_id in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 154
+[10-Sep-2018 07:39:19 UTC] PHP Notice:  Undefined index: sponsored.member_firstname in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 155
+[10-Sep-2018 07:39:19 UTC] PHP Notice:  Undefined index: sponsored.member_lastname in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 156
+[10-Sep-2018 07:39:19 UTC] PHP Notice:  Undefined index: sponsored.member_id in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 154
+[10-Sep-2018 07:39:19 UTC] PHP Notice:  Undefined index: sponsored.member_firstname in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 155
+[10-Sep-2018 07:39:19 UTC] PHP Notice:  Undefined index: sponsored.member_lastname in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 156
+[10-Sep-2018 07:39:19 UTC] PHP Notice:  Undefined index: sponsored.member_id in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 154
+[10-Sep-2018 07:39:19 UTC] PHP Notice:  Undefined index: sponsored.member_firstname in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 155
+[10-Sep-2018 07:39:19 UTC] PHP Notice:  Undefined index: sponsored.member_lastname in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 156
+[10-Sep-2018 07:39:19 UTC] PHP Notice:  Undefined index: sponsored.member_id in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 154
+[10-Sep-2018 07:39:19 UTC] PHP Notice:  Undefined index: sponsored.member_firstname in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 155
+[10-Sep-2018 07:39:19 UTC] PHP Notice:  Undefined index: sponsored.member_lastname in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 156
+[10-Sep-2018 07:39:19 UTC] PHP Notice:  Undefined index: sponsored.member_id in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 154
+[10-Sep-2018 07:39:19 UTC] PHP Notice:  Undefined index: sponsored.member_firstname in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 155
+[10-Sep-2018 07:39:19 UTC] PHP Notice:  Undefined index: sponsored.member_lastname in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 156
+[10-Sep-2018 07:41:36 UTC] PHP Notice:  Undefined index: sponsored.member_id in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 154
+[10-Sep-2018 07:41:36 UTC] PHP Notice:  Undefined index: sponsored.member_firstname in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 155
+[10-Sep-2018 07:41:36 UTC] PHP Notice:  Undefined index: sponsored.member_lastname in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 156
+[10-Sep-2018 07:41:36 UTC] PHP Notice:  Undefined index: sponsored.member_id in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 154
+[10-Sep-2018 07:41:36 UTC] PHP Notice:  Undefined index: sponsored.member_firstname in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 155
+[10-Sep-2018 07:41:36 UTC] PHP Notice:  Undefined index: sponsored.member_lastname in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 156
+[10-Sep-2018 07:41:36 UTC] PHP Notice:  Undefined index: sponsored.member_id in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 154
+[10-Sep-2018 07:41:36 UTC] PHP Notice:  Undefined index: sponsored.member_firstname in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 155
+[10-Sep-2018 07:41:36 UTC] PHP Notice:  Undefined index: sponsored.member_lastname in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 156
+[10-Sep-2018 07:41:36 UTC] PHP Notice:  Undefined index: sponsored.member_id in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 154
+[10-Sep-2018 07:41:36 UTC] PHP Notice:  Undefined index: sponsored.member_firstname in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 155
+[10-Sep-2018 07:41:36 UTC] PHP Notice:  Undefined index: sponsored.member_lastname in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 156
+[10-Sep-2018 07:41:36 UTC] PHP Notice:  Undefined index: sponsored.member_id in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 154
+[10-Sep-2018 07:41:36 UTC] PHP Notice:  Undefined index: sponsored.member_firstname in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 155
+[10-Sep-2018 07:41:36 UTC] PHP Notice:  Undefined index: sponsored.member_lastname in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 156
+[10-Sep-2018 07:42:21 UTC] PHP Notice:  Undefined index: sponsored.member_id in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 154
+[10-Sep-2018 07:42:21 UTC] PHP Notice:  Undefined index: sponsored.member_firstname in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 155
+[10-Sep-2018 07:42:21 UTC] PHP Notice:  Undefined index: sponsored.member_lastname in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 156
+[10-Sep-2018 07:42:21 UTC] PHP Notice:  Undefined index: sponsored.member_id in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 154
+[10-Sep-2018 07:42:21 UTC] PHP Notice:  Undefined index: sponsored.member_firstname in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 155
+[10-Sep-2018 07:42:21 UTC] PHP Notice:  Undefined index: sponsored.member_lastname in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 156
+[10-Sep-2018 07:42:21 UTC] PHP Notice:  Undefined index: sponsored.member_id in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 154
+[10-Sep-2018 07:42:21 UTC] PHP Notice:  Undefined index: sponsored.member_firstname in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 155
+[10-Sep-2018 07:42:21 UTC] PHP Notice:  Undefined index: sponsored.member_lastname in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 156
+[10-Sep-2018 07:42:21 UTC] PHP Notice:  Undefined index: sponsored.member_id in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 154
+[10-Sep-2018 07:42:21 UTC] PHP Notice:  Undefined index: sponsored.member_firstname in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 155
+[10-Sep-2018 07:42:21 UTC] PHP Notice:  Undefined index: sponsored.member_lastname in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 156
+[10-Sep-2018 07:42:21 UTC] PHP Notice:  Undefined index: sponsored.member_id in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 154
+[10-Sep-2018 07:42:21 UTC] PHP Notice:  Undefined index: sponsored.member_firstname in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 155
+[10-Sep-2018 07:42:21 UTC] PHP Notice:  Undefined index: sponsored.member_lastname in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 156
+[10-Sep-2018 07:42:37 UTC] PHP Notice:  Undefined index: sponsored.member_id in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 154
+[10-Sep-2018 07:42:37 UTC] PHP Notice:  Undefined index: sponsored.member_firstname in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 155
+[10-Sep-2018 07:42:37 UTC] PHP Notice:  Undefined index: sponsored.member_lastname in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 156
+[10-Sep-2018 07:42:37 UTC] PHP Notice:  Undefined index: sponsored.member_id in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 154
+[10-Sep-2018 07:42:37 UTC] PHP Notice:  Undefined index: sponsored.member_firstname in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 155
+[10-Sep-2018 07:42:37 UTC] PHP Notice:  Undefined index: sponsored.member_lastname in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 156
+[10-Sep-2018 07:42:37 UTC] PHP Notice:  Undefined index: sponsored.member_id in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 154
+[10-Sep-2018 07:42:37 UTC] PHP Notice:  Undefined index: sponsored.member_firstname in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 155
+[10-Sep-2018 07:42:37 UTC] PHP Notice:  Undefined index: sponsored.member_lastname in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 156
+[10-Sep-2018 07:42:37 UTC] PHP Notice:  Undefined index: sponsored.member_id in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 154
+[10-Sep-2018 07:42:37 UTC] PHP Notice:  Undefined index: sponsored.member_firstname in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 155
+[10-Sep-2018 07:42:37 UTC] PHP Notice:  Undefined index: sponsored.member_lastname in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 156
+[10-Sep-2018 07:42:37 UTC] PHP Notice:  Undefined index: sponsored.member_id in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 154
+[10-Sep-2018 07:42:37 UTC] PHP Notice:  Undefined index: sponsored.member_firstname in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 155
+[10-Sep-2018 07:42:37 UTC] PHP Notice:  Undefined index: sponsored.member_lastname in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 156
+[10-Sep-2018 07:43:02 UTC] PHP Notice:  Undefined index: sponsored.member_id in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 154
+[10-Sep-2018 07:43:02 UTC] PHP Notice:  Undefined index: sponsored.member_firstname in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 155
+[10-Sep-2018 07:43:02 UTC] PHP Notice:  Undefined index: sponsored.member_lastname in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 156
+[10-Sep-2018 07:43:02 UTC] PHP Notice:  Undefined index: sponsored.member_id in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 154
+[10-Sep-2018 07:43:02 UTC] PHP Notice:  Undefined index: sponsored.member_firstname in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 155
+[10-Sep-2018 07:43:02 UTC] PHP Notice:  Undefined index: sponsored.member_lastname in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 156
+[10-Sep-2018 07:43:02 UTC] PHP Notice:  Undefined index: sponsored.member_id in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 154
+[10-Sep-2018 07:43:02 UTC] PHP Notice:  Undefined index: sponsored.member_firstname in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 155
+[10-Sep-2018 07:43:02 UTC] PHP Notice:  Undefined index: sponsored.member_lastname in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 156
+[10-Sep-2018 07:43:02 UTC] PHP Notice:  Undefined index: sponsored.member_id in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 154
+[10-Sep-2018 07:43:02 UTC] PHP Notice:  Undefined index: sponsored.member_firstname in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 155
+[10-Sep-2018 07:43:02 UTC] PHP Notice:  Undefined index: sponsored.member_lastname in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 156
+[10-Sep-2018 07:43:02 UTC] PHP Notice:  Undefined index: sponsored.member_id in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 154
+[10-Sep-2018 07:43:02 UTC] PHP Notice:  Undefined index: sponsored.member_firstname in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 155
+[10-Sep-2018 07:43:02 UTC] PHP Notice:  Undefined index: sponsored.member_lastname in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 156
+[10-Sep-2018 07:48:28 UTC] PHP Notice:  Undefined index: sponsored.member_id in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 154
+[10-Sep-2018 07:48:28 UTC] PHP Notice:  Undefined index: sponsored.member_firstname in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 155
+[10-Sep-2018 07:48:28 UTC] PHP Notice:  Undefined index: sponsored.member_lastname in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 156
+[10-Sep-2018 07:48:28 UTC] PHP Notice:  Undefined index: sponsored.member_id in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 154
+[10-Sep-2018 07:48:28 UTC] PHP Notice:  Undefined index: sponsored.member_firstname in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 155
+[10-Sep-2018 07:48:28 UTC] PHP Notice:  Undefined index: sponsored.member_lastname in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 156
+[10-Sep-2018 07:48:28 UTC] PHP Notice:  Undefined index: sponsored.member_id in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 154
+[10-Sep-2018 07:48:28 UTC] PHP Notice:  Undefined index: sponsored.member_firstname in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 155
+[10-Sep-2018 07:48:28 UTC] PHP Notice:  Undefined index: sponsored.member_lastname in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 156
+[10-Sep-2018 07:48:28 UTC] PHP Notice:  Undefined index: sponsored.member_id in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 154
+[10-Sep-2018 07:48:28 UTC] PHP Notice:  Undefined index: sponsored.member_firstname in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 155
+[10-Sep-2018 07:48:28 UTC] PHP Notice:  Undefined index: sponsored.member_lastname in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 156
+[10-Sep-2018 07:48:28 UTC] PHP Notice:  Undefined index: sponsored.member_id in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 154
+[10-Sep-2018 07:48:28 UTC] PHP Notice:  Undefined index: sponsored.member_firstname in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 155
+[10-Sep-2018 07:48:28 UTC] PHP Notice:  Undefined index: sponsored.member_lastname in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 156
+[10-Sep-2018 07:57:53 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 153
+[10-Sep-2018 07:58:02 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 153
+[10-Sep-2018 07:58:38 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 153
+[10-Sep-2018 07:59:00 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 153
+[10-Sep-2018 08:48:44 UTC] PHP Notice:  Undefined index: package in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 18
+[10-Sep-2018 08:48:44 UTC] PHP Notice:  Undefined index: sb in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 21
+[11-Sep-2018 00:19:09 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/includes/admin_navigation.php on line 16
+[11-Sep-2018 07:58:23 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/includes/admin_navigation.php on line 16
+[11-Sep-2018 08:52:11 UTC] PHP Notice:  Undefined index: sb in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 21
+[11-Sep-2018 11:33:59 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/includes/admin_navigation.php on line 16
+[11-Sep-2018 11:33:59 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/index.php on line 15
+[11-Sep-2018 12:36:52 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/includes/admin_navigation.php on line 16
+[11-Sep-2018 12:36:53 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/includes/admin_navigation.php on line 16
+[13-Sep-2018 00:55:37 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/includes/admin_navigation.php on line 16
+[13-Sep-2018 00:55:37 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/index.php on line 15
+[13-Sep-2018 03:14:14 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/includes/admin_navigation.php on line 16
+[13-Sep-2018 03:14:15 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/includes/admin_navigation.php on line 16
+[13-Sep-2018 03:25:34 UTC] PHP Notice:  Undefined index: sb in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 21
+[13-Sep-2018 03:36:03 UTC] PHP Notice:  Undefined index: sb in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 21
+[13-Sep-2018 03:43:10 UTC] PHP Notice:  Undefined index: sb in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 21
+[13-Sep-2018 03:47:36 UTC] PHP Notice:  Undefined index: sb in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 21
+[13-Sep-2018 03:49:36 UTC] PHP Notice:  Undefined index: sb in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 21
+[13-Sep-2018 03:51:25 UTC] PHP Notice:  Undefined index: sb in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 21
+[13-Sep-2018 03:53:17 UTC] PHP Notice:  Undefined index: sb in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 21
+[13-Sep-2018 04:17:34 UTC] PHP Notice:  Undefined index: sb in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 21
+[13-Sep-2018 04:29:04 UTC] PHP Notice:  Undefined index: sb in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 21
+[13-Sep-2018 04:31:11 UTC] PHP Notice:  Undefined index: sb in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 21
+[13-Sep-2018 05:24:57 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/includes/admin_navigation.php on line 16
+[13-Sep-2018 05:24:57 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/includes/admin_navigation.php on line 16
+[13-Sep-2018 05:27:27 UTC] PHP Notice:  Undefined index: sb in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 21
+[13-Sep-2018 06:25:03 UTC] PHP Notice:  Undefined index: sb in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 21
+[13-Sep-2018 06:41:01 UTC] PHP Notice:  Undefined index: sb in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 21
+[13-Sep-2018 07:08:45 UTC] PHP Notice:  Undefined index: sb in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 21
+[13-Sep-2018 07:36:01 UTC] PHP Notice:  Undefined index: sb in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 21
+[13-Sep-2018 07:52:27 UTC] PHP Notice:  Undefined index: sb in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 21
+[13-Sep-2018 08:33:15 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/includes/admin_navigation.php on line 16
+[13-Sep-2018 08:33:15 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/index.php on line 15
+[13-Sep-2018 08:38:31 UTC] PHP Notice:  Undefined index: sb in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 21
+[13-Sep-2018 08:57:49 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/includes/admin_navigation.php on line 16
+[13-Sep-2018 08:57:49 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/index.php on line 15
+[13-Sep-2018 10:35:37 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/includes/admin_navigation.php on line 16
+[13-Sep-2018 12:00:50 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/includes/admin_navigation.php on line 16
+[13-Sep-2018 12:00:50 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/index.php on line 15
+[13-Sep-2018 12:27:37 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/includes/admin_navigation.php on line 16
+[13-Sep-2018 12:27:37 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/index.php on line 15
+[13-Sep-2018 12:37:45 UTC] PHP Notice:  Undefined index: sb in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 21
+[13-Sep-2018 13:28:56 UTC] PHP Notice:  Undefined index: sb in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 21
+[13-Sep-2018 13:32:47 UTC] PHP Notice:  Undefined index: sb in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 21
+[13-Sep-2018 13:35:20 UTC] PHP Notice:  Undefined index: sb in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 21
+[13-Sep-2018 13:42:26 UTC] PHP Notice:  Undefined index: sb in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 21
+[13-Sep-2018 13:44:07 UTC] PHP Notice:  Undefined index: sb in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 21
+[13-Sep-2018 23:26:28 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/includes/admin_navigation.php on line 16
+[13-Sep-2018 23:26:28 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/index.php on line 15
+[13-Sep-2018 23:55:01 UTC] PHP Notice:  Undefined index: sb in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 21
+[14-Sep-2018 06:10:03 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/includes/admin_navigation.php on line 16
+[14-Sep-2018 06:10:03 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/index.php on line 15
+[14-Sep-2018 07:59:01 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/includes/admin_navigation.php on line 16
+[14-Sep-2018 10:30:02 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/includes/admin_navigation.php on line 16
+[14-Sep-2018 10:30:02 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/index.php on line 15
+[15-Sep-2018 00:50:05 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/includes/admin_navigation.php on line 16
+[15-Sep-2018 00:50:05 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/index.php on line 15
+[15-Sep-2018 03:34:44 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/includes/admin_navigation.php on line 16
+[15-Sep-2018 03:34:44 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/index.php on line 15
+[15-Sep-2018 04:17:09 UTC] PHP Notice:  Undefined index: sb in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 21
+[15-Sep-2018 04:30:52 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/includes/admin_navigation.php on line 16
+[15-Sep-2018 04:30:52 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/index.php on line 15
+[15-Sep-2018 04:30:55 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/includes/admin_navigation.php on line 16
+[15-Sep-2018 04:30:55 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/index.php on line 15
+[15-Sep-2018 04:33:43 UTC] PHP Notice:  Undefined index: sb in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 21
+[15-Sep-2018 04:47:31 UTC] PHP Notice:  Undefined index: sb in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 21
+[15-Sep-2018 04:57:16 UTC] PHP Notice:  Undefined index: sb in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 21
+[15-Sep-2018 05:37:01 UTC] PHP Notice:  Undefined index: sb in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 21
+[15-Sep-2018 07:25:58 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/includes/admin_navigation.php on line 16
+[17-Sep-2018 00:36:41 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/includes/admin_navigation.php on line 16
+[17-Sep-2018 00:36:41 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/index.php on line 15
+[17-Sep-2018 00:53:57 UTC] PHP Notice:  Undefined index: moj_id in /home/iftbyvgbi0d4/public_html/admin/includes/view_all_member.php on line 53
+[17-Sep-2018 00:53:57 UTC] PHP Notice:  Undefined index: moj_id in /home/iftbyvgbi0d4/public_html/admin/includes/view_all_member.php on line 53
+[17-Sep-2018 00:53:57 UTC] PHP Notice:  Undefined index: moj_id in /home/iftbyvgbi0d4/public_html/admin/includes/view_all_member.php on line 53
+[17-Sep-2018 00:53:57 UTC] PHP Notice:  Undefined index: moj_id in /home/iftbyvgbi0d4/public_html/admin/includes/view_all_member.php on line 53
+[17-Sep-2018 00:53:57 UTC] PHP Notice:  Undefined index: moj_id in /home/iftbyvgbi0d4/public_html/admin/includes/view_all_member.php on line 53
+[17-Sep-2018 00:53:57 UTC] PHP Notice:  Undefined index: moj_id in /home/iftbyvgbi0d4/public_html/admin/includes/view_all_member.php on line 53
+[17-Sep-2018 00:53:57 UTC] PHP Notice:  Undefined index: moj_id in /home/iftbyvgbi0d4/public_html/admin/includes/view_all_member.php on line 53
+[17-Sep-2018 00:53:57 UTC] PHP Notice:  Undefined index: moj_id in /home/iftbyvgbi0d4/public_html/admin/includes/view_all_member.php on line 53
+[17-Sep-2018 00:53:57 UTC] PHP Notice:  Undefined index: moj_id in /home/iftbyvgbi0d4/public_html/admin/includes/view_all_member.php on line 53
+[17-Sep-2018 00:53:57 UTC] PHP Notice:  Undefined index: moj_id in /home/iftbyvgbi0d4/public_html/admin/includes/view_all_member.php on line 53
+[17-Sep-2018 00:53:57 UTC] PHP Notice:  Undefined index: moj_id in /home/iftbyvgbi0d4/public_html/admin/includes/view_all_member.php on line 53
+[17-Sep-2018 00:53:57 UTC] PHP Notice:  Undefined index: moj_id in /home/iftbyvgbi0d4/public_html/admin/includes/view_all_member.php on line 53
+[17-Sep-2018 00:53:57 UTC] PHP Notice:  Undefined index: moj_id in /home/iftbyvgbi0d4/public_html/admin/includes/view_all_member.php on line 53
+[17-Sep-2018 00:53:57 UTC] PHP Notice:  Undefined index: moj_id in /home/iftbyvgbi0d4/public_html/admin/includes/view_all_member.php on line 53
+[17-Sep-2018 00:53:57 UTC] PHP Notice:  Undefined index: moj_id in /home/iftbyvgbi0d4/public_html/admin/includes/view_all_member.php on line 53
+[17-Sep-2018 00:53:57 UTC] PHP Notice:  Undefined index: moj_id in /home/iftbyvgbi0d4/public_html/admin/includes/view_all_member.php on line 53
+[17-Sep-2018 00:53:57 UTC] PHP Notice:  Undefined index: moj_id in /home/iftbyvgbi0d4/public_html/admin/includes/view_all_member.php on line 53
+[17-Sep-2018 00:53:57 UTC] PHP Notice:  Undefined index: moj_id in /home/iftbyvgbi0d4/public_html/admin/includes/view_all_member.php on line 53
+[17-Sep-2018 00:53:57 UTC] PHP Notice:  Undefined index: moj_id in /home/iftbyvgbi0d4/public_html/admin/includes/view_all_member.php on line 53
+[17-Sep-2018 00:53:57 UTC] PHP Notice:  Undefined index: moj_id in /home/iftbyvgbi0d4/public_html/admin/includes/view_all_member.php on line 53
+[17-Sep-2018 00:53:57 UTC] PHP Notice:  Undefined index: moj_id in /home/iftbyvgbi0d4/public_html/admin/includes/view_all_member.php on line 53
+[17-Sep-2018 00:53:57 UTC] PHP Notice:  Undefined index: moj_id in /home/iftbyvgbi0d4/public_html/admin/includes/view_all_member.php on line 53
+[17-Sep-2018 00:53:57 UTC] PHP Notice:  Undefined index: moj_id in /home/iftbyvgbi0d4/public_html/admin/includes/view_all_member.php on line 53
+[17-Sep-2018 00:53:57 UTC] PHP Notice:  Undefined index: moj_id in /home/iftbyvgbi0d4/public_html/admin/includes/view_all_member.php on line 53
+[17-Sep-2018 00:53:57 UTC] PHP Notice:  Undefined index: moj_id in /home/iftbyvgbi0d4/public_html/admin/includes/view_all_member.php on line 53
+[17-Sep-2018 00:53:57 UTC] PHP Notice:  Undefined index: moj_id in /home/iftbyvgbi0d4/public_html/admin/includes/view_all_member.php on line 53
+[17-Sep-2018 00:53:57 UTC] PHP Notice:  Undefined index: moj_id in /home/iftbyvgbi0d4/public_html/admin/includes/view_all_member.php on line 53
+[17-Sep-2018 00:53:57 UTC] PHP Notice:  Undefined index: moj_id in /home/iftbyvgbi0d4/public_html/admin/includes/view_all_member.php on line 53
+[17-Sep-2018 00:53:57 UTC] PHP Notice:  Undefined index: moj_id in /home/iftbyvgbi0d4/public_html/admin/includes/view_all_member.php on line 53
+[17-Sep-2018 00:53:57 UTC] PHP Notice:  Undefined index: moj_id in /home/iftbyvgbi0d4/public_html/admin/includes/view_all_member.php on line 53
+[17-Sep-2018 00:53:57 UTC] PHP Notice:  Undefined index: moj_id in /home/iftbyvgbi0d4/public_html/admin/includes/view_all_member.php on line 53
+[17-Sep-2018 00:53:57 UTC] PHP Notice:  Undefined index: moj_id in /home/iftbyvgbi0d4/public_html/admin/includes/view_all_member.php on line 53
+[17-Sep-2018 00:53:57 UTC] PHP Notice:  Undefined index: moj_id in /home/iftbyvgbi0d4/public_html/admin/includes/view_all_member.php on line 53
+[17-Sep-2018 00:53:57 UTC] PHP Notice:  Undefined index: moj_id in /home/iftbyvgbi0d4/public_html/admin/includes/view_all_member.php on line 53
+[17-Sep-2018 00:53:57 UTC] PHP Notice:  Undefined index: moj_id in /home/iftbyvgbi0d4/public_html/admin/includes/view_all_member.php on line 53
+[17-Sep-2018 00:53:57 UTC] PHP Notice:  Undefined index: moj_id in /home/iftbyvgbi0d4/public_html/admin/includes/view_all_member.php on line 53
+[17-Sep-2018 00:53:57 UTC] PHP Notice:  Undefined index: moj_id in /home/iftbyvgbi0d4/public_html/admin/includes/view_all_member.php on line 53
+[17-Sep-2018 00:53:57 UTC] PHP Notice:  Undefined index: moj_id in /home/iftbyvgbi0d4/public_html/admin/includes/view_all_member.php on line 53
+[17-Sep-2018 00:53:57 UTC] PHP Notice:  Undefined index: moj_id in /home/iftbyvgbi0d4/public_html/admin/includes/view_all_member.php on line 53
+[17-Sep-2018 00:53:57 UTC] PHP Notice:  Undefined index: moj_id in /home/iftbyvgbi0d4/public_html/admin/includes/view_all_member.php on line 53
+[17-Sep-2018 00:53:57 UTC] PHP Notice:  Undefined index: moj_id in /home/iftbyvgbi0d4/public_html/admin/includes/view_all_member.php on line 53
+[17-Sep-2018 00:53:57 UTC] PHP Notice:  Undefined index: moj_id in /home/iftbyvgbi0d4/public_html/admin/includes/view_all_member.php on line 53
+[17-Sep-2018 00:53:57 UTC] PHP Notice:  Undefined index: moj_id in /home/iftbyvgbi0d4/public_html/admin/includes/view_all_member.php on line 53
+[17-Sep-2018 00:53:57 UTC] PHP Notice:  Undefined index: moj_id in /home/iftbyvgbi0d4/public_html/admin/includes/view_all_member.php on line 53
+[17-Sep-2018 00:54:08 UTC] PHP Notice:  Undefined index: moj_id in /home/iftbyvgbi0d4/public_html/admin/includes/view_all_member.php on line 53
+[17-Sep-2018 00:54:08 UTC] PHP Notice:  Undefined index: moj_id in /home/iftbyvgbi0d4/public_html/admin/includes/view_all_member.php on line 53
+[17-Sep-2018 00:54:08 UTC] PHP Notice:  Undefined index: moj_id in /home/iftbyvgbi0d4/public_html/admin/includes/view_all_member.php on line 53
+[17-Sep-2018 00:54:08 UTC] PHP Notice:  Undefined index: moj_id in /home/iftbyvgbi0d4/public_html/admin/includes/view_all_member.php on line 53
+[17-Sep-2018 00:54:08 UTC] PHP Notice:  Undefined index: moj_id in /home/iftbyvgbi0d4/public_html/admin/includes/view_all_member.php on line 53
+[17-Sep-2018 00:54:08 UTC] PHP Notice:  Undefined index: moj_id in /home/iftbyvgbi0d4/public_html/admin/includes/view_all_member.php on line 53
+[17-Sep-2018 00:54:08 UTC] PHP Notice:  Undefined index: moj_id in /home/iftbyvgbi0d4/public_html/admin/includes/view_all_member.php on line 53
+[17-Sep-2018 00:54:08 UTC] PHP Notice:  Undefined index: moj_id in /home/iftbyvgbi0d4/public_html/admin/includes/view_all_member.php on line 53
+[17-Sep-2018 00:54:08 UTC] PHP Notice:  Undefined index: moj_id in /home/iftbyvgbi0d4/public_html/admin/includes/view_all_member.php on line 53
+[17-Sep-2018 00:54:08 UTC] PHP Notice:  Undefined index: moj_id in /home/iftbyvgbi0d4/public_html/admin/includes/view_all_member.php on line 53
+[17-Sep-2018 00:54:08 UTC] PHP Notice:  Undefined index: moj_id in /home/iftbyvgbi0d4/public_html/admin/includes/view_all_member.php on line 53
+[17-Sep-2018 00:54:08 UTC] PHP Notice:  Undefined index: moj_id in /home/iftbyvgbi0d4/public_html/admin/includes/view_all_member.php on line 53
+[17-Sep-2018 00:54:08 UTC] PHP Notice:  Undefined index: moj_id in /home/iftbyvgbi0d4/public_html/admin/includes/view_all_member.php on line 53
+[17-Sep-2018 00:54:08 UTC] PHP Notice:  Undefined index: moj_id in /home/iftbyvgbi0d4/public_html/admin/includes/view_all_member.php on line 53
+[17-Sep-2018 00:54:08 UTC] PHP Notice:  Undefined index: moj_id in /home/iftbyvgbi0d4/public_html/admin/includes/view_all_member.php on line 53
+[17-Sep-2018 00:54:08 UTC] PHP Notice:  Undefined index: moj_id in /home/iftbyvgbi0d4/public_html/admin/includes/view_all_member.php on line 53
+[17-Sep-2018 00:54:08 UTC] PHP Notice:  Undefined index: moj_id in /home/iftbyvgbi0d4/public_html/admin/includes/view_all_member.php on line 53
+[17-Sep-2018 00:54:08 UTC] PHP Notice:  Undefined index: moj_id in /home/iftbyvgbi0d4/public_html/admin/includes/view_all_member.php on line 53
+[17-Sep-2018 00:54:08 UTC] PHP Notice:  Undefined index: moj_id in /home/iftbyvgbi0d4/public_html/admin/includes/view_all_member.php on line 53
+[17-Sep-2018 00:54:08 UTC] PHP Notice:  Undefined index: moj_id in /home/iftbyvgbi0d4/public_html/admin/includes/view_all_member.php on line 53
+[17-Sep-2018 00:54:08 UTC] PHP Notice:  Undefined index: moj_id in /home/iftbyvgbi0d4/public_html/admin/includes/view_all_member.php on line 53
+[17-Sep-2018 00:54:08 UTC] PHP Notice:  Undefined index: moj_id in /home/iftbyvgbi0d4/public_html/admin/includes/view_all_member.php on line 53
+[17-Sep-2018 00:54:08 UTC] PHP Notice:  Undefined index: moj_id in /home/iftbyvgbi0d4/public_html/admin/includes/view_all_member.php on line 53
+[17-Sep-2018 00:54:08 UTC] PHP Notice:  Undefined index: moj_id in /home/iftbyvgbi0d4/public_html/admin/includes/view_all_member.php on line 53
+[17-Sep-2018 00:54:08 UTC] PHP Notice:  Undefined index: moj_id in /home/iftbyvgbi0d4/public_html/admin/includes/view_all_member.php on line 53
+[17-Sep-2018 00:54:08 UTC] PHP Notice:  Undefined index: moj_id in /home/iftbyvgbi0d4/public_html/admin/includes/view_all_member.php on line 53
+[17-Sep-2018 00:54:08 UTC] PHP Notice:  Undefined index: moj_id in /home/iftbyvgbi0d4/public_html/admin/includes/view_all_member.php on line 53
+[17-Sep-2018 00:54:08 UTC] PHP Notice:  Undefined index: moj_id in /home/iftbyvgbi0d4/public_html/admin/includes/view_all_member.php on line 53
+[17-Sep-2018 00:54:08 UTC] PHP Notice:  Undefined index: moj_id in /home/iftbyvgbi0d4/public_html/admin/includes/view_all_member.php on line 53
+[17-Sep-2018 00:54:08 UTC] PHP Notice:  Undefined index: moj_id in /home/iftbyvgbi0d4/public_html/admin/includes/view_all_member.php on line 53
+[17-Sep-2018 00:54:08 UTC] PHP Notice:  Undefined index: moj_id in /home/iftbyvgbi0d4/public_html/admin/includes/view_all_member.php on line 53
+[17-Sep-2018 00:54:08 UTC] PHP Notice:  Undefined index: moj_id in /home/iftbyvgbi0d4/public_html/admin/includes/view_all_member.php on line 53
+[17-Sep-2018 00:54:08 UTC] PHP Notice:  Undefined index: moj_id in /home/iftbyvgbi0d4/public_html/admin/includes/view_all_member.php on line 53
+[17-Sep-2018 00:54:08 UTC] PHP Notice:  Undefined index: moj_id in /home/iftbyvgbi0d4/public_html/admin/includes/view_all_member.php on line 53
+[17-Sep-2018 00:54:08 UTC] PHP Notice:  Undefined index: moj_id in /home/iftbyvgbi0d4/public_html/admin/includes/view_all_member.php on line 53
+[17-Sep-2018 00:54:08 UTC] PHP Notice:  Undefined index: moj_id in /home/iftbyvgbi0d4/public_html/admin/includes/view_all_member.php on line 53
+[17-Sep-2018 00:54:08 UTC] PHP Notice:  Undefined index: moj_id in /home/iftbyvgbi0d4/public_html/admin/includes/view_all_member.php on line 53
+[17-Sep-2018 00:54:08 UTC] PHP Notice:  Undefined index: moj_id in /home/iftbyvgbi0d4/public_html/admin/includes/view_all_member.php on line 53
+[17-Sep-2018 00:54:08 UTC] PHP Notice:  Undefined index: moj_id in /home/iftbyvgbi0d4/public_html/admin/includes/view_all_member.php on line 53
+[17-Sep-2018 00:54:08 UTC] PHP Notice:  Undefined index: moj_id in /home/iftbyvgbi0d4/public_html/admin/includes/view_all_member.php on line 53
+[17-Sep-2018 00:54:08 UTC] PHP Notice:  Undefined index: moj_id in /home/iftbyvgbi0d4/public_html/admin/includes/view_all_member.php on line 53
+[17-Sep-2018 00:54:08 UTC] PHP Notice:  Undefined index: moj_id in /home/iftbyvgbi0d4/public_html/admin/includes/view_all_member.php on line 53
+[17-Sep-2018 00:54:08 UTC] PHP Notice:  Undefined index: moj_id in /home/iftbyvgbi0d4/public_html/admin/includes/view_all_member.php on line 53
+[17-Sep-2018 00:54:08 UTC] PHP Notice:  Undefined index: moj_id in /home/iftbyvgbi0d4/public_html/admin/includes/view_all_member.php on line 53
+[17-Sep-2018 01:00:04 UTC] PHP Notice:  Undefined index: moj_id in /home/iftbyvgbi0d4/public_html/admin/includes/edit_member.php on line 26
+[17-Sep-2018 01:35:20 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/iftbyvgbi0d4/public_html/admin/includes/add_sponsored_member.php on line 9
+[17-Sep-2018 01:35:24 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/iftbyvgbi0d4/public_html/admin/includes/add_sponsored_member.php on line 9
+[17-Sep-2018 01:35:26 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/iftbyvgbi0d4/public_html/admin/includes/add_sponsored_member.php on line 9
+[17-Sep-2018 01:35:40 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/iftbyvgbi0d4/public_html/admin/includes/add_sponsored_member.php on line 9
+[17-Sep-2018 01:35:48 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/iftbyvgbi0d4/public_html/admin/includes/add_sponsored_member.php on line 9
+[17-Sep-2018 01:36:21 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/iftbyvgbi0d4/public_html/admin/includes/add_sponsored_member.php on line 9
+[17-Sep-2018 01:37:47 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/iftbyvgbi0d4/public_html/admin/includes/add_sponsored_member.php on line 9
+[17-Sep-2018 01:38:08 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/iftbyvgbi0d4/public_html/admin/includes/add_sponsored_member.php on line 9
+[17-Sep-2018 01:39:19 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/iftbyvgbi0d4/public_html/admin/includes/add_sponsored_member.php on line 9
+[17-Sep-2018 01:44:09 UTC] PHP Parse error:  syntax error, unexpected '"includes/view_all_sponsored_m' (T_CONSTANT_ENCAPSED_STRING) in /home/iftbyvgbi0d4/public_html/admin/sponsoredReg.php on line 18
+[17-Sep-2018 01:44:17 UTC] PHP Parse error:  syntax error, unexpected '"includes/view_all_sponsored_m' (T_CONSTANT_ENCAPSED_STRING) in /home/iftbyvgbi0d4/public_html/admin/sponsoredReg.php on line 18
+[17-Sep-2018 01:44:36 UTC] PHP Warning:  include(includes/view_all_sponsored_member.php): failed to open stream: No such file or directory in /home/iftbyvgbi0d4/public_html/admin/sponsoredReg.php on line 18
+[17-Sep-2018 01:44:36 UTC] PHP Warning:  include(): Failed opening 'includes/view_all_sponsored_member.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/iftbyvgbi0d4/public_html/admin/sponsoredReg.php on line 18
+[17-Sep-2018 01:44:38 UTC] PHP Warning:  include(includes/view_all_sponsored_member.php): failed to open stream: No such file or directory in /home/iftbyvgbi0d4/public_html/admin/sponsoredReg.php on line 18
+[17-Sep-2018 01:44:38 UTC] PHP Warning:  include(): Failed opening 'includes/view_all_sponsored_member.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/iftbyvgbi0d4/public_html/admin/sponsoredReg.php on line 18
+[17-Sep-2018 01:47:03 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iftbyvgbi0d4/public_html/admin/includes/add_sponsored_member.php on line 8
+[17-Sep-2018 01:47:03 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/iftbyvgbi0d4/public_html/admin/includes/add_sponsored_member.php on line 13
+[17-Sep-2018 01:47:17 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iftbyvgbi0d4/public_html/admin/includes/add_sponsored_member.php on line 8
+[17-Sep-2018 01:47:17 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/iftbyvgbi0d4/public_html/admin/includes/add_sponsored_member.php on line 13
+[17-Sep-2018 01:47:51 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iftbyvgbi0d4/public_html/admin/includes/add_sponsored_member.php on line 8
+[17-Sep-2018 01:47:51 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/iftbyvgbi0d4/public_html/admin/includes/add_sponsored_member.php on line 13
+[17-Sep-2018 02:43:05 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/includes/admin_navigation.php on line 16
+[17-Sep-2018 02:46:24 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iftbyvgbi0d4/public_html/admin/includes/add_sponsored_member.php on line 8
+[17-Sep-2018 02:46:24 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/iftbyvgbi0d4/public_html/admin/includes/add_sponsored_member.php on line 13
+[17-Sep-2018 02:47:33 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/iftbyvgbi0d4/public_html/admin/includes/add_sponsored_member.php on line 13
+[17-Sep-2018 02:47:49 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/iftbyvgbi0d4/public_html/admin/includes/add_sponsored_member.php on line 13
+[17-Sep-2018 02:49:18 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/iftbyvgbi0d4/public_html/admin/includes/add_sponsored_member.php on line 13
+[17-Sep-2018 03:40:55 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/includes/admin_navigation.php on line 16
+[17-Sep-2018 03:40:55 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/index.php on line 15
+[17-Sep-2018 05:12:56 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/includes/admin_navigation.php on line 16
+[17-Sep-2018 05:12:56 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/index.php on line 15
+[17-Sep-2018 05:32:03 UTC] PHP Notice:  Undefined variable: id in /home/iftbyvgbi0d4/public_html/admin/includes/add_sponsored_member.php on line 20
+[17-Sep-2018 06:02:13 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/includes/admin_navigation.php on line 16
+[17-Sep-2018 11:23:20 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/includes/admin_navigation.php on line 16
+[17-Sep-2018 11:23:20 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/index.php on line 15
+[17-Sep-2018 11:48:47 UTC] PHP Notice:  Undefined index: sb in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 20
+[17-Sep-2018 12:13:02 UTC] PHP Notice:  Undefined index: sb in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 20
+[17-Sep-2018 12:15:41 UTC] PHP Notice:  Undefined index: sb in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 20
+[17-Sep-2018 12:18:39 UTC] PHP Notice:  Undefined index: sb in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 20
+[17-Sep-2018 12:23:36 UTC] PHP Notice:  Undefined index: sb in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 20
+[17-Sep-2018 12:26:11 UTC] PHP Notice:  Undefined index: sb in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 20
+[17-Sep-2018 12:28:33 UTC] PHP Notice:  Undefined index: sb in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 20
+[18-Sep-2018 00:17:35 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/includes/admin_navigation.php on line 16
+[18-Sep-2018 00:17:35 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/index.php on line 15
+[18-Sep-2018 06:49:57 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/includes/admin_navigation.php on line 16
+[18-Sep-2018 07:34:02 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/includes/admin_navigation.php on line 16
+[18-Sep-2018 07:34:02 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/index.php on line 15
+[19-Sep-2018 00:12:38 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/includes/admin_navigation.php on line 16
+[19-Sep-2018 05:38:04 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/includes/admin_navigation.php on line 16
+[19-Sep-2018 05:38:04 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/index.php on line 15
+[21-Sep-2018 07:05:07 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iftbyvgbi0d4/public_html/admin/add_member_report.php on line 76
+[21-Sep-2018 14:29:39 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/includes/admin_navigation.php on line 16
+[21-Sep-2018 14:29:39 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/index.php on line 15
+[21-Sep-2018 14:45:32 UTC] PHP Notice:  Undefined index: sb in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 20
+[21-Sep-2018 14:45:32 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iftbyvgbi0d4/public_html/admin/add_member_report.php on line 76
+[21-Sep-2018 14:45:55 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iftbyvgbi0d4/public_html/admin/add_member_report.php on line 76
+[21-Sep-2018 14:48:57 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iftbyvgbi0d4/public_html/admin/add_member_report.php on line 76
+[21-Sep-2018 14:51:31 UTC] PHP Notice:  Undefined index: sb in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 20
+[21-Sep-2018 14:51:32 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iftbyvgbi0d4/public_html/admin/add_member_report.php on line 76
+[21-Sep-2018 14:51:48 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iftbyvgbi0d4/public_html/admin/add_member_report.php on line 76
+[21-Sep-2018 14:52:45 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iftbyvgbi0d4/public_html/admin/add_member_report.php on line 76
+[21-Sep-2018 14:53:53 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iftbyvgbi0d4/public_html/admin/add_member_report.php on line 76
+[21-Sep-2018 14:55:11 UTC] PHP Notice:  Undefined index: package in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 18
+[21-Sep-2018 14:55:11 UTC] PHP Notice:  Undefined index: sb in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 20
+[21-Sep-2018 14:55:22 UTC] PHP Notice:  Undefined index: package in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 18
+[21-Sep-2018 14:55:22 UTC] PHP Notice:  Undefined index: sb in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 20
+[21-Sep-2018 14:55:47 UTC] PHP Notice:  Undefined index: package in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 18
+[21-Sep-2018 14:55:47 UTC] PHP Notice:  Undefined index: sb in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 20
+[21-Sep-2018 14:57:00 UTC] PHP Notice:  Undefined index: sb in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 20
+[21-Sep-2018 14:57:00 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iftbyvgbi0d4/public_html/admin/add_member_report.php on line 76
+[21-Sep-2018 14:57:53 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iftbyvgbi0d4/public_html/admin/add_member_report.php on line 76
+[21-Sep-2018 14:58:34 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iftbyvgbi0d4/public_html/admin/add_member_report.php on line 76
+[21-Sep-2018 14:59:42 UTC] PHP Notice:  Undefined index: sb in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 20
+[21-Sep-2018 14:59:43 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iftbyvgbi0d4/public_html/admin/add_member_report.php on line 76
+[21-Sep-2018 15:00:03 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iftbyvgbi0d4/public_html/admin/add_member_report.php on line 76
+[21-Sep-2018 15:01:02 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iftbyvgbi0d4/public_html/admin/add_member_report.php on line 76
+[21-Sep-2018 15:03:10 UTC] PHP Notice:  Undefined index: sb in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 20
+[21-Sep-2018 15:03:10 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iftbyvgbi0d4/public_html/admin/add_member_report.php on line 76
+[21-Sep-2018 15:03:55 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iftbyvgbi0d4/public_html/admin/add_member_report.php on line 76
+[21-Sep-2018 15:04:50 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iftbyvgbi0d4/public_html/admin/add_member_report.php on line 76
+[21-Sep-2018 15:16:57 UTC] PHP Notice:  Undefined index: sb in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 20
+[21-Sep-2018 15:16:58 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iftbyvgbi0d4/public_html/admin/add_member_report.php on line 76
+[21-Sep-2018 15:20:05 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iftbyvgbi0d4/public_html/admin/add_member_report.php on line 76
+[21-Sep-2018 15:21:14 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iftbyvgbi0d4/public_html/admin/add_member_report.php on line 76
+[21-Sep-2018 16:16:55 UTC] PHP Notice:  Undefined index: sb in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 20
+[21-Sep-2018 16:16:55 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iftbyvgbi0d4/public_html/admin/add_member_report.php on line 76
+[21-Sep-2018 16:17:06 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iftbyvgbi0d4/public_html/admin/add_member_report.php on line 76
+[21-Sep-2018 16:17:45 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iftbyvgbi0d4/public_html/admin/add_member_report.php on line 76
+[21-Sep-2018 16:48:29 UTC] PHP Notice:  Undefined index: sb in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 20
+[21-Sep-2018 16:48:29 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iftbyvgbi0d4/public_html/admin/add_member_report.php on line 76
+[21-Sep-2018 16:49:04 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iftbyvgbi0d4/public_html/admin/add_member_report.php on line 76
+[21-Sep-2018 16:50:29 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iftbyvgbi0d4/public_html/admin/add_member_report.php on line 76
+[21-Sep-2018 16:52:18 UTC] PHP Notice:  Undefined index: sb in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 20
+[21-Sep-2018 16:52:19 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iftbyvgbi0d4/public_html/admin/add_member_report.php on line 76
+[21-Sep-2018 16:52:29 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iftbyvgbi0d4/public_html/admin/add_member_report.php on line 76
+[21-Sep-2018 16:53:06 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iftbyvgbi0d4/public_html/admin/add_member_report.php on line 76
+[21-Sep-2018 16:54:23 UTC] PHP Notice:  Undefined index: sb in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 20
+[21-Sep-2018 16:54:24 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iftbyvgbi0d4/public_html/admin/add_member_report.php on line 76
+[21-Sep-2018 16:54:34 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iftbyvgbi0d4/public_html/admin/add_member_report.php on line 76
+[21-Sep-2018 16:55:06 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iftbyvgbi0d4/public_html/admin/add_member_report.php on line 76
+[21-Sep-2018 16:56:16 UTC] PHP Notice:  Undefined index: sb in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 20
+[21-Sep-2018 16:56:16 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iftbyvgbi0d4/public_html/admin/add_member_report.php on line 76
+[21-Sep-2018 16:56:26 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iftbyvgbi0d4/public_html/admin/add_member_report.php on line 76
+[21-Sep-2018 16:56:49 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iftbyvgbi0d4/public_html/admin/add_member_report.php on line 76
+[21-Sep-2018 16:57:50 UTC] PHP Notice:  Undefined index: sb in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 20
+[21-Sep-2018 16:57:50 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iftbyvgbi0d4/public_html/admin/add_member_report.php on line 76
+[21-Sep-2018 16:57:59 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iftbyvgbi0d4/public_html/admin/add_member_report.php on line 76
+[21-Sep-2018 16:58:24 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iftbyvgbi0d4/public_html/admin/add_member_report.php on line 76
+[22-Sep-2018 00:59:56 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/includes/admin_navigation.php on line 16
+[22-Sep-2018 00:59:56 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/index.php on line 15
+[22-Sep-2018 01:59:50 UTC] PHP Notice:  Undefined index: sb in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 20
+[22-Sep-2018 01:59:51 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iftbyvgbi0d4/public_html/admin/add_member_report.php on line 76
+[22-Sep-2018 02:00:14 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iftbyvgbi0d4/public_html/admin/add_member_report.php on line 76
+[22-Sep-2018 02:01:01 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iftbyvgbi0d4/public_html/admin/add_member_report.php on line 76
+[22-Sep-2018 02:08:14 UTC] PHP Notice:  Undefined index: sb in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 20
+[22-Sep-2018 02:08:15 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iftbyvgbi0d4/public_html/admin/add_member_report.php on line 76
+[22-Sep-2018 02:12:22 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iftbyvgbi0d4/public_html/admin/add_member_report.php on line 76
+[22-Sep-2018 02:13:38 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iftbyvgbi0d4/public_html/admin/add_member_report.php on line 76
+[22-Sep-2018 02:34:37 UTC] PHP Notice:  Undefined index: sb in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 20
+[22-Sep-2018 02:34:37 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iftbyvgbi0d4/public_html/admin/add_member_report.php on line 76
+[22-Sep-2018 02:34:48 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iftbyvgbi0d4/public_html/admin/add_member_report.php on line 76
+[22-Sep-2018 02:35:21 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iftbyvgbi0d4/public_html/admin/add_member_report.php on line 76
+[22-Sep-2018 03:34:22 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/includes/admin_navigation.php on line 16
+[22-Sep-2018 03:34:22 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/index.php on line 15
+[22-Sep-2018 03:36:01 UTC] PHP Notice:  Undefined index: sb in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 20
+[22-Sep-2018 03:36:01 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iftbyvgbi0d4/public_html/admin/add_member_report.php on line 76
+[22-Sep-2018 03:36:13 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iftbyvgbi0d4/public_html/admin/add_member_report.php on line 76
+[22-Sep-2018 03:39:27 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iftbyvgbi0d4/public_html/admin/add_member_report.php on line 76
+[22-Sep-2018 05:56:54 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/includes/admin_navigation.php on line 16
+[22-Sep-2018 05:56:54 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/index.php on line 15
+[22-Sep-2018 06:00:21 UTC] PHP Notice:  Undefined index: sb in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 20
+[22-Sep-2018 06:00:21 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iftbyvgbi0d4/public_html/admin/add_member_report.php on line 76
+[22-Sep-2018 06:00:39 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iftbyvgbi0d4/public_html/admin/add_member_report.php on line 76
+[22-Sep-2018 06:22:26 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iftbyvgbi0d4/public_html/admin/add_member_report.php on line 76
+[22-Sep-2018 07:26:37 UTC] PHP Notice:  Undefined index: sb in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 20
+[22-Sep-2018 07:26:37 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iftbyvgbi0d4/public_html/admin/add_member_report.php on line 76
+[22-Sep-2018 07:26:49 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iftbyvgbi0d4/public_html/admin/add_member_report.php on line 76
+[22-Sep-2018 07:27:52 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iftbyvgbi0d4/public_html/admin/add_member_report.php on line 76
+[22-Sep-2018 07:55:24 UTC] PHP Notice:  Undefined index: sb in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 20
+[22-Sep-2018 07:55:24 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iftbyvgbi0d4/public_html/admin/add_member_report.php on line 76
+[22-Sep-2018 07:55:36 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iftbyvgbi0d4/public_html/admin/add_member_report.php on line 76
+[22-Sep-2018 07:58:55 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iftbyvgbi0d4/public_html/admin/add_member_report.php on line 76
+[22-Sep-2018 08:04:59 UTC] PHP Notice:  Undefined index: sb in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 20
+[22-Sep-2018 08:05:00 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iftbyvgbi0d4/public_html/admin/add_member_report.php on line 76
+[22-Sep-2018 08:05:11 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iftbyvgbi0d4/public_html/admin/add_member_report.php on line 76
+[22-Sep-2018 08:06:02 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iftbyvgbi0d4/public_html/admin/add_member_report.php on line 76
+[23-Sep-2018 02:04:09 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/includes/admin_navigation.php on line 16
+[23-Sep-2018 02:04:09 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/index.php on line 15
+[23-Sep-2018 02:47:39 UTC] PHP Notice:  Undefined index: sb in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 20
+[23-Sep-2018 02:47:50 UTC] PHP Notice:  Undefined index: sb in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 20
+[23-Sep-2018 02:49:11 UTC] PHP Notice:  Undefined index: sb in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 20
+[23-Sep-2018 02:49:38 UTC] PHP Notice:  Undefined index: sb in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 20
+[23-Sep-2018 02:49:39 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iftbyvgbi0d4/public_html/admin/add_member_report.php on line 76
+[23-Sep-2018 02:49:49 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iftbyvgbi0d4/public_html/admin/add_member_report.php on line 76
+[23-Sep-2018 02:51:18 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iftbyvgbi0d4/public_html/admin/add_member_report.php on line 76
+[23-Sep-2018 03:28:39 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/includes/admin_navigation.php on line 16
+[23-Sep-2018 03:28:39 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/index.php on line 15
+[23-Sep-2018 03:28:43 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/includes/admin_navigation.php on line 16
+[23-Sep-2018 03:28:43 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/index.php on line 15
+[23-Sep-2018 05:31:47 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/includes/admin_navigation.php on line 16
+[23-Sep-2018 05:31:47 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/index.php on line 15
+[24-Sep-2018 00:10:50 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/includes/admin_navigation.php on line 16
+[24-Sep-2018 00:10:50 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/index.php on line 15
+[24-Sep-2018 02:02:33 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/includes/admin_navigation.php on line 16
+[24-Sep-2018 02:02:33 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/index.php on line 15
+[25-Sep-2018 04:37:33 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/includes/admin_navigation.php on line 16
+[25-Sep-2018 04:37:33 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/index.php on line 15
+[25-Sep-2018 06:43:37 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/includes/admin_navigation.php on line 16
+[25-Sep-2018 06:55:12 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/includes/admin_navigation.php on line 16
+[25-Sep-2018 06:55:12 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/index.php on line 15
+[25-Sep-2018 06:56:44 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iftbyvgbi0d4/public_html/admin/add_member_report.php on line 76
+[26-Sep-2018 01:31:42 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/includes/admin_navigation.php on line 16
+[26-Sep-2018 01:31:42 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/index.php on line 15
+[26-Sep-2018 05:30:16 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/includes/admin_navigation.php on line 16
+[26-Sep-2018 05:30:16 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/index.php on line 15
+[27-Sep-2018 03:48:22 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/includes/admin_navigation.php on line 16
+[27-Sep-2018 03:48:22 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/index.php on line 15
+[27-Sep-2018 05:00:10 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/includes/admin_navigation.php on line 16
+[27-Sep-2018 06:55:01 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/includes/admin_navigation.php on line 16
+[27-Sep-2018 06:55:27 UTC] PHP Notice:  Undefined variable: connection in /home/iftbyvgbi0d4/public_html/admin/add_earning_commission.php on line 73
+[27-Sep-2018 06:55:27 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/iftbyvgbi0d4/public_html/admin/add_earning_commission.php on line 73
+[27-Sep-2018 06:55:27 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iftbyvgbi0d4/public_html/admin/add_earning_commission.php on line 74
+[27-Sep-2018 06:55:27 UTC] PHP Notice:  Undefined variable: connection in /home/iftbyvgbi0d4/public_html/admin/add_earning_commission.php on line 151
+[27-Sep-2018 06:55:27 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/iftbyvgbi0d4/public_html/admin/add_earning_commission.php on line 151
+[27-Sep-2018 06:55:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function confirm() in /home/iftbyvgbi0d4/public_html/admin/add_earning_commission.php:152
+Stack trace:
+#0 {main}
+  thrown in /home/iftbyvgbi0d4/public_html/admin/add_earning_commission.php on line 152
+[28-Sep-2018 02:12:20 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/includes/admin_navigation.php on line 16
+[28-Sep-2018 02:12:20 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/index.php on line 15
+[29-Sep-2018 05:18:58 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/includes/admin_navigation.php on line 16
+[29-Sep-2018 05:18:58 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/index.php on line 15
+[04-Oct-2018 07:19:50 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/includes/admin_navigation.php on line 16
+[04-Oct-2018 07:19:50 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/index.php on line 15
+[04-Oct-2018 08:03:02 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/includes/admin_navigation.php on line 16
+[04-Oct-2018 08:03:02 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/index.php on line 15
+[04-Oct-2018 08:58:43 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/includes/admin_navigation.php on line 16
+[04-Oct-2018 10:30:52 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/includes/admin_navigation.php on line 16
+[04-Oct-2018 10:30:52 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/index.php on line 15
+[04-Oct-2018 10:32:56 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/includes/admin_navigation.php on line 16
+[04-Oct-2018 10:32:56 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/index.php on line 15
+[04-Oct-2018 11:29:52 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/includes/admin_navigation.php on line 16
+[04-Oct-2018 11:29:52 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/index.php on line 15
+[04-Oct-2018 12:58:27 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/includes/admin_navigation.php on line 16
+[04-Oct-2018 12:58:27 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/index.php on line 15
+[05-Oct-2018 00:28:40 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/includes/admin_navigation.php on line 16
+[05-Oct-2018 00:28:40 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/index.php on line 15
+[05-Oct-2018 02:09:38 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/includes/admin_navigation.php on line 16
+[05-Oct-2018 02:09:38 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/index.php on line 15
+[05-Oct-2018 13:32:19 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/includes/admin_navigation.php on line 16
+[05-Oct-2018 13:32:19 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/index.php on line 15
+[06-Oct-2018 01:23:49 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/includes/admin_navigation.php on line 16
+[06-Oct-2018 06:17:40 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/includes/admin_navigation.php on line 16
+[06-Oct-2018 06:17:40 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/index.php on line 15
+[07-Oct-2018 02:49:25 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/includes/admin_navigation.php on line 16
+[07-Oct-2018 02:49:25 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/index.php on line 15
+[07-Oct-2018 02:52:01 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/includes/admin_navigation.php on line 16
+[07-Oct-2018 02:52:01 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/index.php on line 15
+[07-Oct-2018 05:04:46 UTC] PHP Notice:  Undefined index: sb in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 20
+[07-Oct-2018 05:15:01 UTC] PHP Notice:  Undefined index: sb in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 20
+[07-Oct-2018 05:25:41 UTC] PHP Notice:  Undefined index: sb in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 20
+[07-Oct-2018 05:25:49 UTC] PHP Notice:  Undefined index: sb in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 20
+[07-Oct-2018 05:25:58 UTC] PHP Notice:  Undefined index: sb in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 20
+[07-Oct-2018 05:27:11 UTC] PHP Notice:  Undefined index: sb in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 20
+[07-Oct-2018 05:27:28 UTC] PHP Notice:  Undefined index: sb in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 20
+[07-Oct-2018 07:06:55 UTC] PHP Notice:  Undefined index: sb in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 20
+[07-Oct-2018 07:50:06 UTC] PHP Notice:  Undefined index: sb in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 20
+[07-Oct-2018 08:10:30 UTC] PHP Notice:  Undefined index: sb in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 20
+[08-Oct-2018 00:11:30 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/includes/admin_navigation.php on line 16
+[08-Oct-2018 00:11:30 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/includes/admin_navigation.php on line 16
+[08-Oct-2018 02:06:18 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/includes/admin_navigation.php on line 16
+[08-Oct-2018 03:02:33 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/includes/admin_navigation.php on line 16
+[08-Oct-2018 03:02:33 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/index.php on line 15
+[08-Oct-2018 03:36:32 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/includes/admin_navigation.php on line 16
+[08-Oct-2018 06:37:12 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/includes/admin_navigation.php on line 16
+[08-Oct-2018 06:37:12 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/index.php on line 15
+[10-Oct-2018 05:06:09 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/includes/admin_navigation.php on line 16
+[10-Oct-2018 06:54:06 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/includes/admin_navigation.php on line 16
+[10-Oct-2018 06:54:06 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/index.php on line 15
+[10-Oct-2018 14:10:50 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/includes/admin_navigation.php on line 16
+[10-Oct-2018 14:10:50 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/index.php on line 15
+[11-Oct-2018 02:24:55 UTC] PHP Notice:  Undefined index: sb in /home/iftbyvgbi0d4/public_html/admin/includes/add_member_form.php on line 20
+[11-Oct-2018 05:16:25 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/includes/admin_navigation.php on line 16
+[11-Oct-2018 18:09:08 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/includes/admin_navigation.php on line 16
+[11-Oct-2018 18:09:08 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/index.php on line 15
+[11-Oct-2018 23:19:23 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/includes/admin_navigation.php on line 16
+[11-Oct-2018 23:19:23 UTC] PHP Notice:  Undefined index: admin_firstname in /home/iftbyvgbi0d4/public_html/admin/index.php on line 15
